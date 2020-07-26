@@ -62,7 +62,6 @@ export class PropertyListComponent
 			builtUpArea: '1440 sq. ft.',
 			carpetArea: '1440 sq. ft.',
 			configuration: '3 Bedrooms, 3 Bathrooms, Others',
-			facing: 'East',
 			age: '9 years',
 			type: 'Individual House',
 			location: {
@@ -98,7 +97,6 @@ export class PropertyListComponent
 			builtUpArea: '3440 sq. ft.',
 			carpetArea: '3440 sq. ft.',
 			configuration: '4 Bedrooms, 6 Bathrooms, Others',
-			facing: 'East',
 			age: '5 years',
 			type: 'Individual House',
 			location: {
