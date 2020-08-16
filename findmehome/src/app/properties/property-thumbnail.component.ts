@@ -12,7 +12,6 @@ import { Component, Input } from '@angular/core';
         -webkit-box-shadow: 3px 3px 5px 3px #ccc;
         box-shadow: 3px 3px 5px 3px #ccc;}
     .prop-details div { color: #000; font-weight:700;  }
-    .green {color:#1aac2d !important}
     `]    
 })
 export class PropertyThumbnailComponent
